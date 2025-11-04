@@ -3,7 +3,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 // Telegram Bot Configuration
-$bot_token = "8006290667:AAFrfrSsgNWDjuwqToSoGB9x-9nGyUIltyE";
+$bot_token = "8006290667:7373AAFrfrSsgNWDjuwqToSoGB9x-9nGyUIltyE";
 $api_url = "https://api.telegram.org/bot{$bot_token}/";
 
 // Database Configuration
