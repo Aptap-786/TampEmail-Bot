@@ -3,12 +3,12 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 // Telegram Bot Configuration (same as index.php)
-$bot_token = "8006290667:AAFrfrSsgNWDjuwqToSoGB9x-9nGyUIltyE";
+$bot_token = "8006290667:AAdhhdhdFrfrSsgNWDjuwqToSoGB9x-9nGyUIltyE";
 $api_url = "https://api.telegram.org/bot{$bot_token}/";
 
 // Database Configuration (same as index.php)
 $db_host = 'localhost';
-$db_user = 'cztldhwx_tampemail';
+$db_user = 'cztldhwxxhhx_tampemail';
 $db_pass = 'Aptap786920';
 $db_name = 'cztldhwx_tampemail';
 
